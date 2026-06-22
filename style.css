@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.commit2 {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+}
+.commit2__text {
+  color: #fff;
+}
+
+/*# sourceMappingURL=style.css.map */
